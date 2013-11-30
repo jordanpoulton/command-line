@@ -1,1 +1,0 @@
-mv moves the file named/located as the first argument to the path/filename of the second argument
